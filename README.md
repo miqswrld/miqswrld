@@ -26,7 +26,6 @@
 
 ⭐[n1kobg's Blog](https://n1kobg.blogspot.com/)
 
-⭐[KernelOS](https://kernelos.org/)
 <!--
 **fwcct/fwcct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
