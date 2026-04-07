@@ -10,7 +10,7 @@
 
 ![cat on a pc](https://katzenworld.co.uk/wp-content/uploads/2014/09/img_7562.jpg)
 
-[【﻿ＢＥＳＴ　ＷＡＹ　ＴＯ　ＩＮＳＴＡＬＬ　ＷＩＮＤＯＷＳ】](https://github.com/fwcct/best-way-to-install-windows-2026)
+[﻿ＢＥＳＴ　ＷＡＹ　ＴＯ　ＩＮＳＴＡＬＬ　ＷＩＮＤＯＷＳ](https://github.com/fwcct/best-way-to-install-windows-2026)
 
 [𝓈𝓅𝑒𝒸𝓈, 𝒷𝑒𝓃𝒸𝒽𝓂𝒶𝓇𝓀𝓈 𝒶𝓃𝒹 𝓅𝓇𝑜𝑜𝒻](https://github.com/fwcct/my-specs-and-proof)
 
