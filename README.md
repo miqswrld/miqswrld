@@ -10,15 +10,13 @@
 
 ![cat on a pc](https://katzenworld.co.uk/wp-content/uploads/2014/09/img_7562.jpg)
 
-[Network Tweaks](https://github.com/fwcct/network-tweaks)
+[【﻿ＢＥＳＴ　ＷＡＹ　ＴＯ　ＩＮＳＴＡＬＬ　ＷＩＮＤＯＷＳ】](https://github.com/fwcct/best-way-to-install-windows-2026)
 
-[Guides & Tools I Use](https://github.com/fwcct/guides-n-tools)
+[𝓈𝓅𝑒𝒸𝓈, 𝒷𝑒𝓃𝒸𝒽𝓂𝒶𝓇𝓀𝓈 𝒶𝓃𝒹 𝓅𝓇𝑜𝑜𝒻](https://github.com/fwcct/my-specs-and-proof)
 
-[Current OS & Install Guide](https://github.com/fwcct/win-activation)
+[ɢᴜɪᴅᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ɪ ᴜꜱᴇ](https://github.com/fwcct/guides-n-tools)
 
-[My Audio Filters & Apps I Use](https://github.com/fwcct/audio)
-
-[My Specs & Benchmark Proof](https://github.com/fwcct/my-specs-and-benchmark-proof)
+[ᴀᴜᴅɪᴏ ꜱᴛᴜꜰꜰ](https://github.com/fwcct/audio)
 
 
 -----------------------------------------------------------
