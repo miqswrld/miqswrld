@@ -8,8 +8,7 @@
 - *ᴛʜɪꜱ ᴀɴᴅ ᴀɴʏᴛʜɪɴɢ ᴏɴ ᴛʜɪꜱ ɢɪᴛʜᴜʙ ᴡɪʟʟ ᴀʟᴡᴀʏꜱ ᴀɴᴅ ꜰᴏʀᴇᴠᴇʀ ʙᴇ ꜰʀᴇᴇ ᴀɴᴅ ᴀʟʟ ᴜʙᴛᴀɪɴᴇᴅ ᴛʜʀᴏᴜɢʜ ᴏᴘᴇɴ ᴀɴᴅ ꜰʀᴇᴇ ᴛᴏ ᴜꜱᴇ ꜱᴏᴜʀᴄᴇꜱ*
 
 
-![cat on a pc](<img width="1900" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd41954c-2ce5-4dd6-b4fb-efb75d3021f3" />
-)
+![cat on a pc](<img width="1900" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd41954c-2ce5-4dd6-b4fb-efb75d3021f3" />)
 
 [﻿ＢＥＳＴ　ＷＡＹ　ＴＯ　ＩＮＳＴＡＬＬ　ＷＩＮＤＯＷＳ](https://github.com/fwcct/best-way-to-install-windows-2026)
 
