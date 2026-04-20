@@ -1,5 +1,6 @@
 ## ✨ 𝓯𝓻𝓮𝓮 𝓸𝓹𝓽𝓲𝓶𝓲𝔃𝓪𝓽𝓲𝓸𝓷𝓼 𝓪𝓷𝓭 𝓴𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓫𝓪𝓼𝓮 ✨
 
+<a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 - *ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴍʏ ꜱᴘᴇᴄꜱ ɪɴ ᴍʏ ᴏᴛʜᴇʀ ɢɪᴛʜᴜʙ ʀᴇᴘᴏ ꜱᴏ ʏᴏᴜ ᴋɴᴏᴡ ᴛʜᴇ ʜᴀʀᴅᴡᴀʀᴇ ɪ ᴜꜱᴇ ꜰᴏʀ ᴛʜᴇꜱᴇ ᴛᴡᴇᴀᴋꜱ, ᴛʜᴀɴᴋꜱ*
 
