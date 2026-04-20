@@ -2,14 +2,13 @@
 
 ![giphyb](https://github.com/user-attachments/assets/f886de5a-b8cb-4cca-a29f-b6ef5f8bdf6d)
 
+<a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 - *ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴍʏ ꜱᴘᴇᴄꜱ ɪɴ ᴍʏ ᴏᴛʜᴇʀ ɢɪᴛʜᴜʙ ʀᴇᴘᴏ ꜱᴏ ʏᴏᴜ ᴋɴᴏᴡ ᴛʜᴇ ʜᴀʀᴅᴡᴀʀᴇ ɪ ᴜꜱᴇ ꜰᴏʀ ᴛʜᴇꜱᴇ ᴛᴡᴇᴀᴋꜱ, ᴛʜᴀɴᴋꜱ*
 
 - *ᴀʟᴡᴀʏꜱ ᴄʀᴇᴀᴛᴇ ᴀ ʀᴇꜱᴛᴏʀᴇ ᴘᴏɪɴᴛ ʙᴇꜰᴏʀᴇ ᴅᴏɪɴɢ ᴀɴʏ ᴛᴡᴇᴀᴋꜱ ᴏʀ ᴏᴘᴛɪᴍɪᴢᴀᴛɪᴏɴꜱ*
 
 - *ᴛʜɪꜱ ᴀɴᴅ ᴀɴʏᴛʜɪɴɢ ᴏɴ ᴛʜɪꜱ ɢɪᴛʜᴜʙ ᴡɪʟʟ ᴀʟᴡᴀʏꜱ ᴀɴᴅ ꜰᴏʀᴇᴠᴇʀ ʙᴇ ꜰʀᴇᴇ ᴀɴᴅ ᴀʟʟ ᴜʙᴛᴀɪɴᴇᴅ ᴛʜʀᴏᴜɢʜ ᴏᴘᴇɴ ᴀɴᴅ ꜰʀᴇᴇ ᴛᴏ ᴜꜱᴇ ꜱᴏᴜʀᴄᴇꜱ*
-
-
-<a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
   [﻿💎 𝒃𝒆𝒔𝒕 𝒘𝒂𝒚 𝒕𝒐 𝒊𝒏𝒔𝒕𝒂𝒍𝒍 𝒘𝒊𝒏𝒅𝒐𝒘𝒔 𝒊𝒏 𝟐𝟎𝟐𝟔 💎](https://github.com/fwcct/best-way-to-install-windows-2026)
