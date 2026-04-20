@@ -12,7 +12,7 @@
 ![giphyb](https://github.com/user-attachments/assets/f886de5a-b8cb-4cca-a29f-b6ef5f8bdf6d)
 
 
-[﻿💎 ʙᴇꜱᴛ ᴡᴀʏ ᴛᴏ ɪɴꜱᴀᴛᴀʟʟ ᴡɪɴᴅᴏᴡꜱ ᴡɪᴛʜ ᴛʜᴇ ʟᴏᴡᴇꜱᴛ ʟᴀᴛᴇɴᴄʏ ᴀɴᴅ ʙᴇꜱᴛ ᴘᴇʀꜰᴏʀᴍᴀᴄᴇ ɪɴ 2026 💎](https://github.com/fwcct/best-way-to-install-windows-2026)
+[﻿💎 ʙᴇꜱᴛ ᴡᴀʏ ᴛᴏ ɪɴꜱᴀᴛᴀʟʟ ᴡɪɴᴅᴏᴡꜱ ɪɴ 2026 💎](https://github.com/fwcct/best-way-to-install-windows-2026)
 
 [ꜱᴘᴇᴄꜱ, ʙᴇɴᴄʜᴍᴀʀᴋꜱ ᴀɴᴅ ᴘʀᴏᴏꜰ](https://github.com/fwcct/my-specs-and-proof)
 
