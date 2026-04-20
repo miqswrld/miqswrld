@@ -11,15 +11,14 @@
 
 <a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
---------------------------------------------------
 
-[﻿💎 𝒃𝒆𝒔𝒕 𝒘𝒂𝒚 𝒕𝒐 𝒊𝒏𝒔𝒕𝒂𝒍𝒍 𝒘𝒊𝒏𝒅𝒐𝒘𝒔 𝒊𝒏 𝟐𝟎𝟐𝟔 💎](https://github.com/fwcct/best-way-to-install-windows-2026)
+  [﻿💎 𝒃𝒆𝒔𝒕 𝒘𝒂𝒚 𝒕𝒐 𝒊𝒏𝒔𝒕𝒂𝒍𝒍 𝒘𝒊𝒏𝒅𝒐𝒘𝒔 𝒊𝒏 𝟐𝟎𝟐𝟔 💎](https://github.com/fwcct/best-way-to-install-windows-2026)
 
-[ꜱᴘᴇᴄꜱ, ʙᴇɴᴄʜᴍᴀʀᴋꜱ ᴀɴᴅ ᴘʀᴏᴏꜰ](https://github.com/fwcct/my-specs-and-proof)
+  [ꜱᴘᴇᴄꜱ, ʙᴇɴᴄʜᴍᴀʀᴋꜱ ᴀɴᴅ ᴘʀᴏᴏꜰ](https://github.com/fwcct/my-specs-and-proof)
 
-[ɢᴜɪᴅᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ɪ ᴜꜱᴇ](https://github.com/fwcct/guides-n-tools)
+  [ɢᴜɪᴅᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ɪ ᴜꜱᴇ](https://github.com/fwcct/guides-n-tools)
 
-[ɴᴇᴛᴡᴏʀᴋ ᴛᴡᴇᴀᴋꜱ](https://github.com/fwcct/network-tweaks)
+  [ɴᴇᴛᴡᴏʀᴋ ᴛᴡᴇᴀᴋꜱ](https://github.com/fwcct/network-tweaks)
 
 
 -----------------------------------------------------------
