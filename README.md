@@ -1,4 +1,4 @@
-## ✨ 𝔚𝔦𝔫𝔡𝔬𝔴𝔰 𝔗𝔴𝔢𝔞𝔨𝔰 & 𝔎𝔫𝔬𝔴𝔩𝔢𝔡𝔤𝔢 𝔅𝔞𝔰𝔢 ✨
+## ✨ 𝔚𝔦𝔫𝔡𝔬𝔴𝔰 𝔗𝔴𝔢𝔞𝔨𝔰 + 𝔎𝔫𝔬𝔴𝔩𝔢𝔡𝔤𝔢 𝔅𝔞𝔰𝔢 ✨
 
 <a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
@@ -11,7 +11,7 @@
 
   [🍀﻿ ʙᴇꜱᴛ ᴡᴀʏ ᴛᴏ ɪɴꜱᴛᴀʟʟ ᴡɪɴᴅᴏᴡꜱ ɪɴ 2026 🍀](https://github.com/fwcct/best-way-to-install-windows-2026)
 
-  [⚙️ ꜱᴘᴇᴄꜱ, ʙᴇɴᴄʜᴍᴀʀᴋꜱ ᴀɴᴅ ᴘʀᴏᴏꜰ ⚙️](https://github.com/fwcct/my-specs-and-proof)
+  [⚙️ ꜱᴘᴇᴄꜱ, ʙᴇɴᴄʜᴍᴀʀᴋꜱ ᴀɴᴅ ᴘʀᴏᴏꜰ ⚙️](https://github.com/fwcct/my-specs-and-benchmark-proof)
 
   [🛠️ ɢᴜɪᴅᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ɪ ᴜꜱᴇ 🛠️](https://github.com/fwcct/guides-n-tools)
 
