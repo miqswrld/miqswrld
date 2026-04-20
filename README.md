@@ -1,8 +1,8 @@
 ## ✨ 𝔚𝔦𝔫𝔡𝔬𝔴𝔰 𝔗𝔴𝔢𝔞𝔨𝔰 & 𝔎𝔫𝔬𝔴𝔩𝔢𝔡𝔤𝔢 𝔅𝔞𝔰𝔢 ✨
 
-![giphyb](https://github.com/user-attachments/assets/f886de5a-b8cb-4cca-a29f-b6ef5f8bdf6d)
-
 <a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+![giphyb](https://github.com/user-attachments/assets/f886de5a-b8cb-4cca-a29f-b6ef5f8bdf6d)
 
 - *ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴍʏ ꜱᴘᴇᴄꜱ ɪɴ ᴍʏ ᴏᴛʜᴇʀ ɢɪᴛʜᴜʙ ʀᴇᴘᴏ ꜱᴏ ʏᴏᴜ ᴋɴᴏᴡ ᴛʜᴇ ʜᴀʀᴅᴡᴀʀᴇ ɪ ᴜꜱᴇ ꜰᴏʀ ᴛʜᴇꜱᴇ ᴛᴡᴇᴀᴋꜱ, ᴛʜᴀɴᴋꜱ*
 
