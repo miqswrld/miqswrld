@@ -32,6 +32,6 @@
 
 ⭐ [valleyofdoom's github](https://github.com/valleyofdoom/PC-Tuning)
 
-⭐ [a slightly better way to overclock and tweak your nvdiea gpu](https://docs.google.com/document/u/0/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/mobilebasic)
+⭐ [a slightly better way to overclock and tweak your nvidia gpu](https://docs.google.com/document/u/0/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/mobilebasic)
 
 
