@@ -24,14 +24,14 @@
 -----------------------------------------------------------
 
 
-⭐[FR33THY](https://github.com/FR33THYFR33THY/)
+⭐ [FR33THY](https://github.com/FR33THYFR33THY/)
 
-⭐[n1kobg's Blog](https://n1kobg.blogspot.com/)
+⭐ [n1kobg's Blog](https://n1kobg.blogspot.com/)
 
-⭐[calypso's latency guide](https://docs.google.com/document/u/0/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/mobilebasic?pli=1)
+⭐ [calypso's latency guide](https://docs.google.com/document/u/0/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/mobilebasic?pli=1)
 
-⭐[valleyofdoom's github](https://github.com/valleyofdoom/PC-Tuning)
+⭐ [valleyofdoom's github](https://github.com/valleyofdoom/PC-Tuning)
 
-⭐[a slightly better way to overclock and tweak your nvdiea gpu](https://docs.google.com/document/u/0/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/mobilebasic)
+⭐ [a slightly better way to overclock and tweak your nvdiea gpu](https://docs.google.com/document/u/0/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/mobilebasic)
 
 
