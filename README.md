@@ -26,6 +26,6 @@
 
 ⭐ [calypso's latency guide](https://docs.google.com/document/u/0/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/mobilebasic?pli=1)
 
-⭐ [a slightly better way to overclock and tweak your nvidia gpu](https://docs.google.com/document/u/0/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/mobilebasic)
+⭐ [better way to overclock and tweak your nvidia gpu](https://docs.google.com/document/u/0/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/mobilebasic)
 
 
